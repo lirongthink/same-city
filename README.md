@@ -1,16 +1,20 @@
-# same_city
+# 同城购App
 
-A new Flutter project.
+  同城二手交易平台.
 
-## Getting Started
+## 描述
 
-This project is a starting point for a Flutter application.
+  同城购 App 是一个同城二手交易平台，二手交易的重点在于信用，痛点也就是卖家远程卖出的商品邮
+寄后被替换成劣质品被退回、高快递费到付件被买家以退回为由勒索减价；买家买到的物品非卖家描述
+物品、物品有暗病使用几日后出问题。这些归根结底都是距离导致的钻空子。同城购仅限同城交易，买
+家可当场看货体验后决定是否购买，这种交易方式完美解决了以上问题，为二手交易的双方提供了保障。
 
-A few resources to get you started if this is your first Flutter project:
+## 技术栈
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  Flutter+Egg.js
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 功能
+
+  初步实现了商品列表的浏览，用户可以拍照或者选择图片发布商品，也可以查看其他人发布的商品并选
+择下单，用户付款后会将钱转到官方账户，确认交易后会转到卖家账户。用户还可以设置个人信息和交
+易地址
